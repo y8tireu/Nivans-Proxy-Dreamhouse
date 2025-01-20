@@ -1,7 +1,5 @@
 # Proxies
 
-Here are all the proxies extracted from the file:
-
 ### Norepted
 - https://norepted.playcode.io/
 - https://gzhhqm.csb.app/
